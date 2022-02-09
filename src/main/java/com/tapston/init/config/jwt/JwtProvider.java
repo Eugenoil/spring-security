@@ -1,4 +1,4 @@
-package com.tapston.springsecurity.config.jwt;
+package com.tapston.init.config.jwt;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

@@ -1,6 +1,6 @@
-package com.tapston.springsecurity.config;
+package com.tapston.init.config;
 
-import com.tapston.springsecurity.entity.UserEntity;
+import com.tapston.init.entity.UserEntity;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

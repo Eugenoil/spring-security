@@ -1,9 +1,9 @@
-package com.tapston.springsecurity.service;
+package com.tapston.init.service;
 
-import com.tapston.springsecurity.entity.RoleEntity;
-import com.tapston.springsecurity.entity.UserEntity;
-import com.tapston.springsecurity.repository.RoleEntityRepository;
-import com.tapston.springsecurity.repository.UserEntityRepository;
+import com.tapston.init.entity.RoleEntity;
+import com.tapston.init.entity.UserEntity;
+import com.tapston.init.repository.RoleEntityRepository;
+import com.tapston.init.repository.UserEntityRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

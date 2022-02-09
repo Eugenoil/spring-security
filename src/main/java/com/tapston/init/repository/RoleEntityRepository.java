@@ -1,6 +1,6 @@
-package com.tapston.springsecurity.repository;
+package com.tapston.init.repository;
 
-import com.tapston.springsecurity.entity.RoleEntity;
+import com.tapston.init.entity.RoleEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface RoleEntityRepository extends JpaRepository<RoleEntity, Integer> {

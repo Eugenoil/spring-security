@@ -1,6 +1,6 @@
-package com.tapston.springsecurity.repository;
+package com.tapston.init.repository;
 
-import com.tapston.springsecurity.entity.UserEntity;
+import com.tapston.init.entity.UserEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserEntityRepository extends JpaRepository<UserEntity, Integer> {

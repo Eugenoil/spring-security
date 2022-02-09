@@ -1,4 +1,4 @@
-package com.tapston.springsecurity.controller;
+package com.tapston.init.controller;
 
 import lombok.Data;
 

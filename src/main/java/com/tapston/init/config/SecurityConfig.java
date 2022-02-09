@@ -1,6 +1,6 @@
-package com.tapston.springsecurity.config;
+package com.tapston.init.config;
 
-import com.tapston.springsecurity.config.jwt.JwtFilter;
+import com.tapston.init.config.jwt.JwtFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

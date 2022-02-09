@@ -1,7 +1,7 @@
-package com.tapston.springsecurity.config;
+package com.tapston.init.config;
 
-import com.tapston.springsecurity.entity.UserEntity;
-import com.tapston.springsecurity.service.UserService;
+import com.tapston.init.entity.UserEntity;
+import com.tapston.init.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

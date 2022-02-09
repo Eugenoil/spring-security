@@ -1,7 +1,7 @@
-package com.tapston.springsecurity.config.jwt;
+package com.tapston.init.config.jwt;
 
-import com.tapston.springsecurity.config.CustomUserDetails;
-import com.tapston.springsecurity.config.CustomUserDetailsService;
+import com.tapston.init.config.CustomUserDetails;
+import com.tapston.init.config.CustomUserDetailsService;
 import lombok.extern.java.Log;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
